@@ -6,7 +6,7 @@ Coleciono esses wallpapers há anos. Este é o meu diretório de wallpapers comp
 
 ## Onde consegui isso?
 
-Eu encontro wallpapers em vários locais diferentes, mas bons lugares para conferir incluem [Imgur](http://imgur.com) e [/wg/](http://4chan.org/wg). Alguns dos wallpapers provavelmente foram incluídos em pacotes de wallpapers padrão de várias distribuições do Linux que instalei ao longo dos anos.
+Eu encontro wallpapers em vários locais diferentes, mas bons lugares para conferir incluem [Imgur](http://imgur.com), [r/WidescreenWallpaper](https://www.reddit.com/r/WidescreenWallpaper/), [r/WQHD_Wallpaper](https://www.reddit.com/r/WQHD_Wallpaper/) e [/wg/](http://4chan.org/wg). Alguns dos wallpapers provavelmente foram incluídos em pacotes de wallpapers padrão de várias distribuições do Linux que instalei ao longo dos anos.
 
 <p>&nbsp;</p>
 
@@ -30,7 +30,7 @@ I've been collecting these wallpapers for years. This is my complete directory o
 
 ## Where did I get this?
 
-I find wallpapers in many different places, but good places to check include [Imgur](http://imgur.com) and [/wg/](http://4chan.org/wg). Some of the wallpapers were probably included in default wallpaper packages for various Linux distributions that I've installed over the years.
+I find wallpapers in many different places, but good places to check include [Imgur](http://imgur.com), [r/WidescreenWallpaper](https://www.reddit.com/r/WidescreenWallpaper/), [r/WQHD_Wallpaper](https://www.reddit.com/r/WQHD_Wallpaper/) and [/wg/](http://4chan.org/wg). Some of the wallpapers were probably included in default wallpaper packages for various Linux distributions that I've installed over the years.
 
 <p>&nbsp;</p>
 
